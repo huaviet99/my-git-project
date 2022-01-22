@@ -3,3 +3,7 @@ Some Code here
 public void myCFunction(){
    Log.d("Hello World CC");
 }
+
+public void myC2Function(){
+   Log.d("This is my C2 Function with code cleaned");
+}
