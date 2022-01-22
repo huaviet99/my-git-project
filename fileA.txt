@@ -3,3 +3,7 @@ Some Code here
 public void testFunction(){
    Log.d("Hello World");
 }
+
+public void myAnotherAfunction(){
+   Log.d("Hello World A A");
+}

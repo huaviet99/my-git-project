@@ -1,0 +1,5 @@
+Some Code here 
+
+public void myBFunction(){
+   Log.d("Hello World B");
+}

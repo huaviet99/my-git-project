@@ -1,0 +1,5 @@
+Some Code here 
+
+public void myCFunction(){
+   Log.d("Hello World CC");
+}
